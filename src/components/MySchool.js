@@ -2,9 +2,9 @@ import { Card, CardContent, CardMedia, Grid, Slider, Typography } from '@mui/mat
 import React, { useState } from 'react';
 
 const schoolImages = [
-    "https://upload.wikimedia.org/wikipedia/commons/5/51/Pataskala_Elementary_School.jpg",
-    "https://images6.fanpop.com/image/photos/36800000/School-image-school-36812026-3888-2592.jpg",
-    "https://cdnassets.hw.net/b6/7d/95e393ff4c8296702e5e63979e3e/40b17d69b0b2434486fc7f485d3f44fc.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/a/a7/MSC_Front_Gate.jpg",
+    "https://www.sundaytimes.lk/220206/uploads/417181_247210125370974_76062900_n.jpg",
+    "https://www.news.klasshub.lk/wp-content/uploads/2022/06/Maris-Stell-College-Anniversary.jpg"
 ];
 
 function MySchool(){

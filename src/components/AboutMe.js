@@ -40,7 +40,7 @@ function AboutMe(){
                         <CardContent>
                         <Avatar
                              alt="My Avatar"
-                            src="https://lakeoktransport.ca/images/avataaars4.png"
+                            src="https://img.freepik.com/free-photo/fashion-boy-with-yellow-jacket-blue-pants_71767-96.jpg?w=826&t=st=1706546741~exp=1706547341~hmac=75d2886dec500c84af6ae7a7e593e2babd6e355373812db9c25180dfbd1af528"
                             sx={{ width: 80, height: 80, marginBottom: 2, position: 'absolute' }}/>
                             <Typography  variant='h3'> Kathija Ranasinghe </Typography>
                             <Typography variant="h6" gutterBottom>
@@ -76,7 +76,7 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://lakeoktransport.ca/images/avataaars1.png"
+                            src="https://img.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg?w=826&t=st=1706547118~exp=1706547718~hmac=02563691501d98ace32375e26ac706a7c0edb70d597ed4a4426521a75bcc1da7"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
@@ -92,7 +92,7 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://lakeoktransport.ca/images/avataaars3.png"
+                            src="https://img.freepik.com/free-photo/cartoon-character-with-handbag-sunglasses_71767-99.jpg?w=826&t=st=1706547157~exp=1706547757~hmac=54618d2323dc84e28a8017423d39899f2f1e421d61d93d4fcde07bd6b3cce546"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
@@ -107,7 +107,7 @@ function AboutMe(){
                     <Grid item>
                         <Avatar
                             alt="My Username"
-                            src="https://lakeoktransport.ca/images/avataaars4.png"
+                            src="https://img.freepik.com/free-photo/3d-illustration-young-man-with-beard-mustache_1142-51070.jpg?t=st=1706547208~exp=1706550808~hmac=d378d4344bc471092ccb1f5b8ecc86d5d7b7f1212ea6dca50c32b41767302968&w=826"
                             sx={{ width: 60, height: 60 }}
                         />
                     </Grid>
