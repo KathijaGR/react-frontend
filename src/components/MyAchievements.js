@@ -5,8 +5,8 @@ import {
 import React from 'react';
 
 const createData = (name, category, date) => {
+    console.log("my object********", { name, category, date });
     return { name, category, date };
-    //
 }
 
 const rows = [
@@ -78,6 +78,13 @@ const MyAchievements = () => {
     const emptyRows = rowsPerPage - Math.min(rowsPerPage, rows.length - page*rowsPerPage);
 
     return (
+        <div
+      style={{
+        background: 'linear-gradient(to bottom, #FF00CC , #333399)',
+        minHeight: '100vh', // Set a minimum height to cover the whole viewport
+        padding: '150px',
+      }}
+    >
         <Paper>
             <TableContainer>
                 <Table>
@@ -111,6 +118,7 @@ const MyAchievements = () => {
                 onPageChange={handleChangePage}
                 onRowsPerPageChange={handleChangeRowsPerPage} />       
         </Paper>
+    </div>
     );
 };
 
