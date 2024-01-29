@@ -5,7 +5,7 @@ const UserProfile = () => {
 
     const user = {
         name: 'Kathija Ranasinghe',
-        school: 'Central College, Colombo',
+        school: 'Maris Stella college, Negomobo',
         dob: 'May 09, 2007',
         email: 'kathijaranasinghe@example.com',
         description: 'I am a programming enthusiast!',
